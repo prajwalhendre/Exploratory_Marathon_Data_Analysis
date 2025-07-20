@@ -5,7 +5,7 @@
 
 This project performs an exploratory data analysis on a large dataset of ultra-marathon running records. The goal is to investigate performance trends by focusing on races that occurred in the USA during 2020 with distances of either 50km or 50 miles.
 
-The dataset can be found here: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWdyZFpXdnpRUVZTOFhHbTRRYjRUbXR1TnlPZ3xBQ3Jtc0ttR0xJZ3ZleGt0aDVDSXkzTjhBNEhuWmoxZmVxQ0F2T0syUGRhX2tHa1lDTlRtZHdrR3VaeFdDQkM4c2gyelNCZUF5LTNhSGxhRWwtdHBYdFc0QXNsR2laX1RuN0NfS2FTaEtZc0JTQzB2NDFVNWs2Yw&q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Faiaiaidavid%2Fthe-big-dataset-of-ultra-marathon-running%2Fdiscussion%2F420633&v=4sZFkPw87ng
+The dataset can be found here: https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633
 
 **Data Cleaning and Preparation**
 
