@@ -51,5 +51,9 @@ After cleaning and preparation, two primary questions were investigated:
 
   The slowest average speeds were recorded during the summer months, which may be attributed to hotter and more challenging race conditions. The fastest times were in the spring.
 
+**Tableau Dashboard**
+
+<img width="1723" height="1009" alt="Screenshot 2025-07-27 at 12 30 22 PM" src="https://github.com/user-attachments/assets/9b706cfe-69ad-4d30-bad1-0389ecc98666" />
+
 **Conclusion**
 This analysis of 2020 US ultra-marathons reveals clear performance patterns related to athlete gender and race season. Male runners consistently outperform female runners in average speed, and athletes of all genders tend to run significantly slower during the summer.
